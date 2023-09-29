@@ -1,0 +1,15 @@
+1....create netwrpath 
+
+
+2....use networkpath in datasouurce setings in pbi desktop 
+
+
+
+3....service----> gateway(online)----->create connection(in this use network path)----->dektop file publish (sevice)--->dataset in service  (setings--gateway connections automatically configure)
+
+
+
+networkpath:
+\\LAPTOP-FFDIJ9DU\Users\yasha\OneDrive\Desktop\power bi\vinaytech_business_payment_details_datamodel_dataset.xlsx
+
+c:\users\yasha\onedrive\desktop\power bi\vinaytech_business_payment_details_datamodel_dataset.xlsx
