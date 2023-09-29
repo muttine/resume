@@ -1,4 +1,4 @@
-1....create netwrpath 
+1....create netwrpath ----yashavi
 
 
 2....use networkpath in datasouurce setings in pbi desktop 
